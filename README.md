@@ -1,4 +1,4 @@
 # test
 test
 commit B, C, D
-commit E
+commit E, F
